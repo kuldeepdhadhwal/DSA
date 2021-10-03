@@ -1,7 +1,7 @@
 '''
 https://www.interviewbit.com/problems/distribute-candy/
 Greedy Algorithms
-
+Microsoft, Flipkart, amazon
 '''
 class Solution:
     # @param A : list of integers
