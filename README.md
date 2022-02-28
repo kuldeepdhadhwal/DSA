@@ -1,2 +1,2 @@
 # DSA
-This is a problem solving repo from leetcode. 
+This is a problem solving repo of questions from leetcode. 
