@@ -2,7 +2,6 @@ class Solution:
     # https://leetcode.com/problems/target-sum/
     def findTargetSumWays(self, nums: List[int], target: int) -> int:
         dp = {}
-        
         def backtrack(i,total):
             if i == len(nums):
                 return 1 if total == target else 0
